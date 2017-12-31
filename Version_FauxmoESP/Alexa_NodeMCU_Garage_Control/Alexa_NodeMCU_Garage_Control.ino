@@ -33,8 +33,8 @@
 #include "fauxmoESP.h"
 
 /* Network credentials */
-#define WIFI_SSID "YOUR SSID"
-#define WIFI_PASS "YOUR PASSWORD"    
+#define WIFI_SSID "STARTV"
+#define WIFI_PASS "startv782788"    
 
 #define SERIAL_BAUDRATE 115200
 
