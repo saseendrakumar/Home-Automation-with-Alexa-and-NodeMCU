@@ -20,8 +20,8 @@
 #include <WiFiUdp.h>
 #include <functional>
 
-const char* ssid = "YOUR SSID";
-const char* password = "YOUR PASSWORD";
+const char* ssid = "STARTV";
+const char* password = "startv782788";
 boolean wifiConnected = false;
 
 // Declare function prototypes
